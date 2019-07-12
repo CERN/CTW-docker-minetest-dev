@@ -1,4 +1,11 @@
-[![linuxserver.io](https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/linuxserver_medium.png)](https://linuxserver.io)
+# Docker MINETEST Development Image
+
+Unlike its upstream project, this image ...
+* ... keeps build development tools onboard
+* ... adds LUA devtools (busted, luacheck)
+
+
+[![linuxserver.io](https://raw.githubusercontent.com/linuxserver/docker-templates/master/linuxserver.io/img/linuxserver_small.png)](https://linuxserver.io)
 
 The [LinuxServer.io](https://linuxserver.io) team brings you another container release featuring :-
 
